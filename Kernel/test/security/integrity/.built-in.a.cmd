@@ -1,0 +1,1 @@
+cmd_security/integrity/built-in.a :=  rm -f security/integrity/built-in.a; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD security/integrity/built-in.a security/integrity/iint.o security/integrity/integrity_audit.o

@@ -1,0 +1,6 @@
+kernel/drivers/input/touchscreen/himax/himax_83112/himax_ic_incell_core.ko
+kernel/drivers/input/touchscreen/himax/himax_83112/himax_ic_HX83112.ko
+kernel/drivers/input/touchscreen/himax/himax_83112/himax_common.ko
+kernel/drivers/input/touchscreen/himax/himax_83112/himax_platform.ko
+kernel/drivers/input/touchscreen/himax/himax_83112/himax_debug.ko
+kernel/drivers/input/touchscreen/himax/himax_83112/himax_inspection.ko

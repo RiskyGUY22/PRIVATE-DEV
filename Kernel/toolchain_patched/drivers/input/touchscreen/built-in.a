@@ -1,0 +1,39 @@
+!<thin>
+//                                              660       `
+of_touchscreen.o/
+himax/himax_83112/himax_ic_incell_core.o/
+himax/himax_83112/himax_ic_HX83112.o/
+himax/himax_83112/himax_common.o/
+himax/himax_83112/himax_platform.o/
+himax/himax_83112/himax_debug.o/
+himax/himax_83112/himax_inspection.o/
+synaptics/td4150/synaptics_tcm_spi.o/
+synaptics/td4150/synaptics_tcm_core.o/
+synaptics/td4150/synaptics_tcm_touch.o/
+synaptics/td4150/synaptics_tcm_sec_fn.o/
+synaptics/td4150/synaptics_tcm_sec_fn_test.o/
+synaptics/td4150/synaptics_tcm_zeroflash.o/
+novatek/nt36525/nt36xxx.o/
+novatek/nt36525/nt36xxx_fw_update.o/
+novatek/nt36525/nt36xxx_ext_proc.o/
+novatek/nt36525/nt36xxx_mp_ctrlram.o/
+novatek/nt36525/nt36xxx_sec_fn.o/
+
+/0              0           0     0     644     150424    `
+/18             0           0     0     644     641568    `
+/60             0           0     0     644     182720    `
+/98             0           0     0     644     464568    `
+/132            0           0     0     644     322704    `
+/168            0           0     0     644     533896    `
+/201            0           0     0     644     646344    `
+/239            0           0     0     644     256888    `
+/277            0           0     0     644     586640    `
+/316            0           0     0     644     270152    `
+/356            0           0     0     644     240800    `
+/397            0           0     0     644     205096    `
+/443            0           0     0     644     343920    `
+/487            0           0     0     644     521096    `
+/514            0           0     0     644     265432    `
+/551            0           0     0     644     174864    `
+/587            0           0     0     644     363560    `
+/625            0           0     0     644     382584    `

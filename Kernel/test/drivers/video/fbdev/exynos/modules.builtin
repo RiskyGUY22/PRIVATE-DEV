@@ -1,0 +1,5 @@
+kernel/drivers/video/fbdev/exynos/panel/sysfs.ko
+kernel/drivers/video/fbdev/exynos/panel/panel_i2c.ko
+kernel/drivers/video/fbdev/exynos/panel/td4150/td4150.ko
+kernel/drivers/video/fbdev/exynos/panel/hx83104/hx83104.ko
+kernel/drivers/video/fbdev/exynos/panel/nt36575/nt36575.ko

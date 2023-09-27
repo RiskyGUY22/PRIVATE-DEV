@@ -1,0 +1,11 @@
+kernel/drivers/input/touchscreen/of_touchscreen.ko
+kernel/drivers/input/touchscreen/himax/himax_83112/himax_ic_incell_core.ko
+kernel/drivers/input/touchscreen/himax/himax_83112/himax_ic_HX83112.ko
+kernel/drivers/input/touchscreen/himax/himax_83112/himax_common.ko
+kernel/drivers/input/touchscreen/himax/himax_83112/himax_platform.ko
+kernel/drivers/input/touchscreen/himax/himax_83112/himax_debug.ko
+kernel/drivers/input/touchscreen/himax/himax_83112/himax_inspection.ko
+kernel/drivers/input/touchscreen/synaptics/td4150/synaptics_tcm_core_module.ko
+kernel/drivers/input/touchscreen/synaptics/td4150/synaptics_tcm_sec_fn.ko
+kernel/drivers/input/touchscreen/synaptics/td4150/synaptics_tcm_sec_fn_test.ko
+kernel/drivers/input/touchscreen/synaptics/td4150/synaptics_tcm_zeroflash.ko

@@ -1,0 +1,16 @@
+!<thin>
+//                                              264       `
+sensorhub/shub_nacho_bl.bin.gen.o/
+sensorhub/shub_nacho_a21s.bin.gen.o/
+sensorhub/a21s_bring_up.bin.gen.o/
+tsp_synaptics/td4150_a21s.bin.gen.o/
+tsp_himax/hx83112a_a21s.bin.gen.o/
+tsp_novatek/nt36675_a21s_csot.bin.gen.o/
+tsp_novatek/nt36675_a21s_mp_csot.bin.gen.o/
+/0              0           0     0     644     2376      `
+/35             0           0     0     644     153424    `
+/72             0           0     0     644     119232    `
+/107            0           0     0     644     155160    `
+/144            0           0     0     644     132432    `
+/179            0           0     0     644     140648    `
+/220            0           0     0     644     140648    `
