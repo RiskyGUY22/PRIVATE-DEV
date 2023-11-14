@@ -1,1 +1,0 @@
-cmd_drivers/sensorhub/accelerometer/built-in.a :=  rm -f drivers/sensorhub/accelerometer/built-in.a; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/sensorhub/accelerometer/built-in.a drivers/sensorhub/accelerometer/accelometer_sensor.o drivers/sensorhub/accelerometer/accel_lsm6dsl.o
