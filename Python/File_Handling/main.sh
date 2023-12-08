@@ -1,0 +1,11 @@
+#!/bin/env python
+
+try:
+    with open('data', 'r') as f:
+        for line in f:
+            print(line)
+    
+except FileNotFoundError:
+    print('File not found')
+
+    f.close()

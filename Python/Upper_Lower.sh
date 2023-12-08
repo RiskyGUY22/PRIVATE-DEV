@@ -20,6 +20,9 @@ data = ["Inside of DOG you can find DO", \
     "In CUPBOARD it may really surprise you to find BOAR", \
     "And in CORNER you have CORN "]
 
+
+list = ["TEN", "TENT", "BOWL", "OWL", "SINK", "INK", "BATHTUB", "BAT", "CUPBOARD", "BOAR", "CORNER", "CORN"]
+
 first = data[0][10:13]
 second = data[0][27:29]
 
